@@ -1,0 +1,4 @@
+// This is the main information file for Cummy.
+
+num CummyVersion = 1.4
+num BootstrapperVersion = 1.0
